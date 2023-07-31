@@ -1,0 +1,10 @@
+D:\Escritorio\DEV2023 (ALUMNO-A)\bin\Debug\DEV2023.exe.config
+D:\Escritorio\DEV2023 (ALUMNO-A)\bin\Debug\DEV2023.exe
+D:\Escritorio\DEV2023 (ALUMNO-A)\bin\Debug\DEV2023.pdb
+D:\Escritorio\DEV2023 (ALUMNO-A)\obj\Debug\DEV2023.csproj.AssemblyReference.cache
+D:\Escritorio\DEV2023 (ALUMNO-A)\obj\Debug\DEV2023.Form1.resources
+D:\Escritorio\DEV2023 (ALUMNO-A)\obj\Debug\DEV2023.Properties.Resources.resources
+D:\Escritorio\DEV2023 (ALUMNO-A)\obj\Debug\DEV2023.csproj.GenerateResource.cache
+D:\Escritorio\DEV2023 (ALUMNO-A)\obj\Debug\DEV2023.csproj.CoreCompileInputs.cache
+D:\Escritorio\DEV2023 (ALUMNO-A)\obj\Debug\DEV2023.exe
+D:\Escritorio\DEV2023 (ALUMNO-A)\obj\Debug\DEV2023.pdb
